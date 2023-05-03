@@ -2,7 +2,7 @@
 
 ## Description
 
-Using the command-line you are able to create a logo. 
+This application allows you to create a logo in the command-line. USing node and inquirer, it then prompts you with 5 questions that pertain to the shape, color and three letters you want displayed in your logo. After answering the questions, a logo is created and you are able to view it in the logo.svg file.
 
 ## Installation
 
@@ -20,4 +20,4 @@ Jacob Nordan- tutor
 
 ## Tests
 
-Screencastify video: 
+Screencastify video:
