@@ -13,7 +13,7 @@ Using the command-line you are able to create a logo.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Node v18.15.0, Inquirer 8.2.4
 
 ## Usage
 
@@ -28,10 +28,6 @@ Jacob Nordan- tutor
 ## Features
 
 If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
 ## Tests
 
