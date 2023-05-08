@@ -1,3 +1,3 @@
-import CLI from './lib/cli.js';
+const CLI = require('./lib/cli.js');
 
 new CLI().run();
